@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning Spring Framework and Spring Boot.
 
-- ⚡ Fun fact: At the beginning of my software career, I thought everything was a backend.
-
 - ❓Ask me anything related to Java and data structures, I'm happy to assist with any questions or projects you have!
 
 ### <div align="center"> Kids Next Door... BATTLE STATIONS!</div>
