@@ -1,6 +1,6 @@
 ### <div align="center">I'm Berkay Baris, a full-time student studying computer science👨‍💻striving to become a full-stack developer🚀</div>
 
-- 🔭 I’m currently working to make the website version of the desktop-based applications i've made.
+- 🔭 I'm currently working on making a website version of the desktop based applications i have made.
 
 - 🌱 I’m currently learning Spring Framework and Spring Boot.
 
