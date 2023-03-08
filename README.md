@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berkay Baris</h1>
+<h1 align="center">Hi, I'm Berkay Baris</h1>
 <h3 align="center">Full-time student studying computer science👨‍💻striving to become a full-stack developer🚀</h3>
 
 - 🔭 I’m currently working on [Library Management System Web App](https://github.com/berkaybarisalgun/Library-Management-System-Web-App)
