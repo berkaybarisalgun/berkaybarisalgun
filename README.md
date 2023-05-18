@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Berkay Baris</h1>
 <h3 align="center">Full-time student studying computer science👨‍💻striving to become a full-stack developer🚀</h3>
 
-- 🔭 I’m currently working on [Library Management System Web App](https://github.com/berkaybarisalgun/Library-Management-System-Web-App)
+- 🔭 I’m currently working on [E-commerce Web App](https://github.com/berkaybarisalgun/ShopmeEcommerce)
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Spring Framework and React**
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/barisalgun/)
 
