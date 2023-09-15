@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Berkay Baris</h1>
 <h3 align="center">Full-time student studying computer science👨‍💻striving to become a full-stack developer🚀</h3>
 
-- 🔭 I’m currently working on [E-commerce Web App](https://github.com/berkaybarisalgun/ShopmeEcommerce) and [Scum Helper Server]([https://github.com/ilkerCelimli/SurveyWhiz](https://github.com/noxsener/scum_helper_server))
+- 🔭 I’m currently working on [E-commerce Web App](https://github.com/berkaybarisalgun/ShopmeEcommerce) and [Scum Helper Server]((https://github.com/noxsener/scum_helper_server))
 
 - 🌱 I’m currently learning **Spring Framework and React**
 
