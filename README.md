@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Berkay Baris</h1>
-<h3 align="center">Full-time student studying computer science👨‍💻striving to become a full-stack developer🚀</h3>
+<h3 align="center">Full-time software engineer👨‍💻</h3>
 
 - 🌱 I’m currently learning **Spring Framework and React**
 
