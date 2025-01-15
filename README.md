@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Berkay Baris</h1>
 <h3 align="center">Full-time software engineer👨‍💻</h3>
 
-- 🌱 I’m currently learning **Spring Framework and React**
-
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/barisalgun/)
 
 <h3 align="left">Connect with me:</h3>
